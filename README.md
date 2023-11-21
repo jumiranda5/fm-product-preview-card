@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [todo](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor solution page](https://www.frontendmentor.io/solutions/product-preview-card-component-B8uBPGuKue)
 - Live Site URL: [fm-product-preview-card](https://jumiranda5.github.io/fm-product-preview-card/)
 
 ## Author
