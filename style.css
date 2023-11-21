@@ -241,6 +241,14 @@ s::after {
     color: var(--white);
 }
 
+.product-details__button:hover {
+    background-color: #184131;
+}
+
+.product-details__button:active {
+    background-color: #102b20;
+}
+
 @media (min-width: 960px) {
 
     .product,
