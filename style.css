@@ -243,9 +243,11 @@ s::after {
 
 @media (min-width: 960px) {
 
+    .product,
+    .product-details { display: flex; }
+
     .product {
         max-width: 37.5rem;
-        display: flex;
         flex-flow: row wrap;
     }
 
@@ -253,14 +255,8 @@ s::after {
     .product-details { width: 50%; }
 
     .product-details {
-        display: flex;
         flex-flow: column wrap;
         justify-content: space-between;
-    }
-
-    .product-img {
-        height: 100%;
-        object-fit: cover;
     }
 
     .product-details {
